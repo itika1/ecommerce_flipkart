@@ -30,5 +30,20 @@ Flipkart is a vast Internet-based enterprise that sells books, music, movies, ho
 ![Screenshot (361)](https://user-images.githubusercontent.com/52042964/143812412-de51d99a-44c9-40a4-9925-213b7f654140.png)
 ![Screenshot (362)](https://user-images.githubusercontent.com/52042964/143812414-6102a6f6-b7fe-4802-911b-8267373344f4.png)
 
+### Functionality for buyers
 
+1. Registration and profiles
+2. Product search engine and filters
+3. Ordering goods
+4. Wish list
+5. Shopping Cart
+6. Ratings and reviews
+7. Payment system
+8. Awesome Experience
 
+![Screenshot (363)](https://user-images.githubusercontent.com/52042964/143812406-480b7d59-56f5-427a-8c53-2eb2b3f91d8f.png)
+![Screenshot (364)](https://user-images.githubusercontent.com/52042964/143812403-91f83ce8-69fe-4179-a6b8-9a93272fb650.png)
+
+## Outcomes
+
+The future of web development is undoubtedly promising, as every industry segment requires a website to take its products or services online. Businesses around the globe are in constant search of professionals who can build outstanding websites.
