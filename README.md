@@ -15,6 +15,16 @@ Flipkart is a vast Internet-based enterprise that sells books, music, movies, ho
 
 ![Screenshot (360)](https://user-images.githubusercontent.com/52042964/143812408-e64d7f09-9b55-4de3-b9d3-a0e0eb454850.png)
 
+## Functionality of Website
+### Functionality for Buyers
+1. Registration and profiles
+2. Listings and cards of products
+3. Customers’ order management
+4. Delivery management
+5. Payment system
+6. Ratings and reviews
+7. Statistics, reports
+
 ![Screenshot (361)](https://user-images.githubusercontent.com/52042964/143812412-de51d99a-44c9-40a4-9925-213b7f654140.png)
 ![Screenshot (362)](https://user-images.githubusercontent.com/52042964/143812414-6102a6f6-b7fe-4802-911b-8267373344f4.png)
 ![Screenshot (363)](https://user-images.githubusercontent.com/52042964/143812406-480b7d59-56f5-427a-8c53-2eb2b3f91d8f.png)
