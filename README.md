@@ -1,6 +1,6 @@
 # This is a dynamic ecommerce flipkart Website.  
 ## Find out our Project Report from here
-[Php MySQL Project](https://www.canva.com/design/DAEwpz8AvYc/share/previewtoken=2MD9oqx4jnudoiOaAkFQGw&role=EDITOR&utm_content=DAEwpz8AvYc&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+[Php MySQL Project](https://www.canva.com/design/DAEwpz8AvYc/SjvVgrrptni96xXIxmk6Qg/view?utm_content=DAEwpz8AvYc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 ## INTODUCTION:
 ### BACKGROUND:
 Industrial trainings are formal programs designed to provide practical experience in real world environment to students who are new to field. Industrial trainings help to build competent resume by giving students visible work experience Although colleges and universities assists students in finding the right training programs, it is the responsibility of the students to carefully examine training programs. This industrial training program is basically based on Web Development (PHP & MySQL).
