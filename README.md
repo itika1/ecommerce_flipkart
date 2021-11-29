@@ -9,8 +9,12 @@ In the following snapshots we display the way we have used MYSQL Server as the b
 
 ![Screenshot (358)](https://user-images.githubusercontent.com/52042964/143812399-e3a65e7b-b0b2-4b3a-baaa-15c4e3360616.png)
 
+## Flipkart-clone-php-training-project
+
+Flipkart is a vast Internet-based enterprise that sells books, music, movies, housewares, electronics, toys, and many other goods. In this project, we will explore the actual features of the flipkart site. we build the flipkart clone using HTML, CSS, JavaScript, jQuery, Bootstrap, PHP software techs and we used MySQL server to maintain the database.
 
 ![Screenshot (360)](https://user-images.githubusercontent.com/52042964/143812408-e64d7f09-9b55-4de3-b9d3-a0e0eb454850.png)
+
 ![Screenshot (361)](https://user-images.githubusercontent.com/52042964/143812412-de51d99a-44c9-40a4-9925-213b7f654140.png)
 ![Screenshot (362)](https://user-images.githubusercontent.com/52042964/143812414-6102a6f6-b7fe-4802-911b-8267373344f4.png)
 ![Screenshot (363)](https://user-images.githubusercontent.com/52042964/143812406-480b7d59-56f5-427a-8c53-2eb2b3f91d8f.png)
