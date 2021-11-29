@@ -44,7 +44,7 @@ Flipkart is a vast Internet-based enterprise that sells books, music, movies, ho
 ![Screenshot (363)](https://user-images.githubusercontent.com/52042964/143812406-480b7d59-56f5-427a-8c53-2eb2b3f91d8f.png)
 ![Screenshot (364)](https://user-images.githubusercontent.com/52042964/143812403-91f83ce8-69fe-4179-a6b8-9a93272fb650.png)
 
-##Outcomes
+## Outcomes
 
 The future of web development is undoubtedly promising, as every industry segment requires a website to take its products or services online. Businesses around the globe are in constant search of professionals who can build outstanding websites.
 
