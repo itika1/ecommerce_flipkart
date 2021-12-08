@@ -46,4 +46,8 @@ Flipkart is a vast Internet-based enterprise that sells books, music, movies, ho
 
 ## Outcomes
 
-The future of web development is undoubtedly promising, as every industry segment requires a website to take its products or services online. Businesses around the globe are in constant search of professionals who can build outstanding websites.
+The future of web development is undoubtedly promising, as every industry segment requires a website to take its products or services online. Businesses around the globe are in constant search of professionals who can build outstanding websites. 
+
+## Conclusion
+
+The Flipkart Project that we could develop is just an example of how using Web Development tools we can create websites, complex web applications, electronic businesses, and social network services that pertain to the requirements of clients. An ever-growing set of tools and technologies help us to develop and build more dynamic & interactive Web sites. Web sites are no longer simply tools for work or for commerce, but tend to serve more broadly for communication and social networking, helping large organizations and small businesses alike.
